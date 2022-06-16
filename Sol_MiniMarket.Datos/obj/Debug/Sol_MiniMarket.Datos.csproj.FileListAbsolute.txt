@@ -1,0 +1,9 @@
+C:\Users\lomba\source\repos\Sol_Minimarket\Sol_MiniMarket.Datos\bin\Debug\Sol_MiniMarket.Datos.dll
+C:\Users\lomba\source\repos\Sol_Minimarket\Sol_MiniMarket.Datos\bin\Debug\Sol_MiniMarket.Datos.pdb
+C:\Users\lomba\source\repos\Sol_Minimarket\Sol_MiniMarket.Datos\bin\Debug\Sol_MiniMarket.Entidades.dll
+C:\Users\lomba\source\repos\Sol_Minimarket\Sol_MiniMarket.Datos\bin\Debug\Sol_MiniMarket.Entidades.pdb
+C:\Users\lomba\source\repos\Sol_Minimarket\Sol_MiniMarket.Datos\obj\Debug\Sol_MiniMarket.Datos.csproj.AssemblyReference.cache
+C:\Users\lomba\source\repos\Sol_Minimarket\Sol_MiniMarket.Datos\obj\Debug\Sol_MiniMarket.Datos.csproj.CoreCompileInputs.cache
+C:\Users\lomba\source\repos\Sol_Minimarket\Sol_MiniMarket.Datos\obj\Debug\Sol_MiniMarket.Datos.csproj.CopyComplete
+C:\Users\lomba\source\repos\Sol_Minimarket\Sol_MiniMarket.Datos\obj\Debug\Sol_MiniMarket.Datos.dll
+C:\Users\lomba\source\repos\Sol_Minimarket\Sol_MiniMarket.Datos\obj\Debug\Sol_MiniMarket.Datos.pdb
